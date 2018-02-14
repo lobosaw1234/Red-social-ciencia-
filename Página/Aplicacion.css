@@ -1,0 +1,19 @@
+h1{
+	color:#0B615E;
+}
+
+label{
+	display:inline-block; width:350px;
+	text-aling:right;
+	width:350px;	
+}
+p{
+  	
+	border: Green 10px solid;
+  	margin-left: 250px;
+}
+#perfil{
+	position:fixed;
+}
+
+
